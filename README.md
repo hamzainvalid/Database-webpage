@@ -8,7 +8,7 @@ First step:
 - Make sure the record is being added to the database
 
 Second step:
-- Figure out and implement the alogrithm for weekly change
+- Figure out and implement the alogrithm for weekly change (not done)*
 - Create another page to show the records and figure out the edit and deleting methodology on one page
 - Link all the pages
 
