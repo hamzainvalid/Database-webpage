@@ -17,7 +17,7 @@ Third step:
 - Impletement the edit and remove methodology backend
 
 Fourth step:
-- Design the webpage print ready and allow test the print out for the data/records
+- Design the webpage print ready and allow test the print out for the data/records of specific months and times
 
 Fifth step(optional):
 - Try out sql commands to view additional analysis and values of the data into different formats
